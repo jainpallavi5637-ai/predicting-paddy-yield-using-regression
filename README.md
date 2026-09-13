@@ -77,6 +77,12 @@ The project was completed through the following stages:
 8. **Multicollinearity Analysis**
    - Used **Variance Inflation Factor (VIF)** to identify highly correlated features
 
+   ### Correlation Heatmap
+
+The correlation heatmap shows the relationships between numerical features and highlights areas of strong correlation and multicollinearity.
+
+![Correlation Heatmap](correlation_heatmap.png)
+
 9. **Feature Engineering**
    - Created per-hectare features for selected agricultural inputs
 
