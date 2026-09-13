@@ -17,6 +17,16 @@ You can explore the complete analysis, preprocessing, feature engineering, VIF a
 
 👉 [Open the Jupyter Notebook](Yield_Per_hectare_with_VIF_and_PCA.ipynb)
 
+## Project Highlights
+
+- Built a complete **end-to-end machine learning regression project**
+- Analyzed **2,789 paddy cultivation records**
+- Created a **Yield per Hectare** target to measure production efficiency
+- Performed **EDA, statistical analysis, VIF, feature engineering, and PCA**
+- Compared **Linear Regression, Decision Tree, Random Forest, and XGBoost**
+- Achieved the best feature-engineered XGBoost **R² score of 0.432**
+- Used a **correlation heatmap and VIF analysis** to investigate multicollinearity
+
 ## Dataset
 
 The dataset contains information related to paddy cultivation, including agricultural, environmental, weather, soil, and crop-related variables.
