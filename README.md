@@ -22,7 +22,7 @@ The dataset contains information related to paddy cultivation, including agricul
 - **Categorical Variables:** 8
 - **Missing Values:** No missing values
 - **Duplicate Records:** 451 duplicates identified and removed
-- **Target Variable:** Paddy Yield (in Kg)
+- - **Target Variable:** Yield per Hectare
 
 ###  Paddy Varieties
 
