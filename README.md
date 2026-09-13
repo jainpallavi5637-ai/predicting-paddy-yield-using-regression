@@ -266,3 +266,46 @@ predicting-paddy-yield-using-regression/
 ├── paddydataset.csv
 ├── Yield_Per_hectare_with_VIF_and_PCA.ipynb
 └── requirements.txt
+
+## Results & Key Takeaways
+
+### Key Results
+
+- **XGBoost Regressor** performed best among the evaluated regression models after feature engineering.
+- The best feature-engineered XGBoost model achieved an **R² score of 0.432**.
+- VIF analysis identified significant multicollinearity among several features.
+- Feature engineering converted selected agricultural inputs into **per-hectare measures**.
+- PCA reduced the feature space from **42 features to 8 principal components** while retaining **96.69% variance**.
+- Different feature-selection and preprocessing approaches were compared to understand their effect on model performance.
+
+### Key Takeaway
+
+The project demonstrates that data preprocessing, feature engineering, multicollinearity analysis, and dimensionality reduction can significantly change how machine learning models represent agricultural data.
+
+The comparison of multiple approaches helped identify the strengths and limitations of each method for predicting paddy yield per hectare.
+
+## Future Improvements
+
+The project can be further improved by:
+
+- Performing hyperparameter tuning for the regression models
+- Using cross-validation for more reliable model evaluation
+- Exploring additional feature engineering techniques
+- Testing other advanced regression algorithms
+- Analyzing model predictions using additional visualization techniques
+- Deploying the trained model as a simple web application
+
+## About Me
+
+I am a BBA graduate with a background in Data Analytics and a strong interest in data-driven problem solving.
+
+I enjoy working with data to clean, analyze, visualize, and extract meaningful insights that can support better decision-making.
+
+### 🔗 Connect With Me
+
+- **GitHub:** [jainpallavi5637-ai](https://github.com/jainpallavi5637-ai)
+- **LinkedIn:** Add your LinkedIn profile link here
+
+## License
+
+This project is available for educational and portfolio purposes.
