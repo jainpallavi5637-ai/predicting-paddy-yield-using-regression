@@ -1,10 +1,15 @@
 # Predicting Paddy Yield Using Regression
 
 ### Machine Learning Project for Paddy Yield Prediction
+## Project Objective
 
-This project focuses on predicting **Total Paddy Yield in Kg** using agricultural, environmental, and other relevant features from a paddy cultivation dataset.
+Agricultural productivity depends on several factors, including crop characteristics, environmental conditions, soil properties, and weather conditions.
 
-The project covers the complete machine learning workflow, including data cleaning, exploratory data analysis, data preprocessing, feature scaling, regression model building, and model evaluation.
+The objective of this project is to analyze paddy cultivation data and build regression models to predict **Paddy Yield per Hectare**.
+
+The project follows a complete machine learning workflow, including data cleaning, exploratory data analysis, feature engineering, multicollinearity analysis using **Variance Inflation Factor (VIF)**, dimensionality reduction using **Principal Component Analysis (PCA)**, regression modeling, and model evaluation.
+
+The project also compares model performance across different feature-selection and preprocessing approaches to understand their impact on prediction accuracy.
 ## Dataset
 
 The dataset contains information related to paddy cultivation, including agricultural, environmental, weather, soil, and crop-related variables.
