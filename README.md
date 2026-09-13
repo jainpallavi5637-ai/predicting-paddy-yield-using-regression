@@ -10,6 +10,13 @@ The objective of this project is to analyze paddy cultivation data and build reg
 The project follows a complete machine learning workflow, including data cleaning, exploratory data analysis, feature engineering, multicollinearity analysis using **Variance Inflation Factor (VIF)**, dimensionality reduction using **Principal Component Analysis (PCA)**, regression modeling, and model evaluation.
 
 The project also compares model performance across different feature-selection and preprocessing approaches to understand their impact on prediction accuracy.
+
+## Project Notebook
+
+You can explore the complete analysis, preprocessing, feature engineering, VIF analysis, PCA, regression models, and evaluation in the Jupyter Notebook.
+
+👉 [Open the Jupyter Notebook](Yield_Per_hectare_with_VIF_and_PCA.ipynb)
+
 ## Dataset
 
 The dataset contains information related to paddy cultivation, including agricultural, environmental, weather, soil, and crop-related variables.
